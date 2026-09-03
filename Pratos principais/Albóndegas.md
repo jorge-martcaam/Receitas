@@ -14,7 +14,7 @@ Cantidade: 60 (29 g por albondega)
 
 ## Ingredientes
 
-_Elementos secos_
+_Elementos secos_:
 Glute de trigo vital: 500 g
 Soia texturizada fina (seca): 70 g
 Fariña de garavanzos: 80 g
@@ -24,7 +24,7 @@ Cebola en po: 5 culleradiñas
 Pementa negra moída: 1,5 culleradiñas
 Sal: 2 culleradiñas (axustar segundo o sal do caldo utilizado)
 
-_Elementos húmidos_
+_Elementos húmidos_:
 Caldo vexetal escuro e concentrado: 750 ml
 Viño tinto: 60 ml
 Salsa de soia escura: 60 ml
