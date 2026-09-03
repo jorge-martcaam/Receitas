@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "b4198962153c59fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "343d38e1ffe123d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e76d24a819953f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Plantillas/Receita.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Receita"
+            }
+          },
+          {
+            "id": "c6782af6db6020b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Plantillas/Receita.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Receita"
+            }
+          },
+          {
+            "id": "6d6b48afe4286fe2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Plantillas/Receita.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Receita"
+            }
+          },
+          {
+            "id": "7bfa6b59b486c92c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sobremesas/Sin título 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sin título 1"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f6409948dceae77",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "21b7069914a1f295",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Explorador de archivos"
+        }
+      },
+      {
+        "id": "ca0a4068ecec7660",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Buscar"
+        }
+      },
+      {
+        "id": "b48b3447e9f2fcbd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Etiquetas"
+        }
+      },
+      {
+        "id": "4cd6c3b55977c3e3",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "Todas las propiedades"
+        }
+      },
+      {
+        "id": "450912d92ce54cbc",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-bookmark",
+          "title": "Marcadores"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "405a37afe29bc2b7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "243a83c8b51e9a66",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Sobremesas/Sin título 1.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Enlaces entrantes"
+        }
+      },
+      {
+        "id": "2736420ce081e561",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Sobremesas/Sin título 1.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Enlaces salientes"
+        }
+      },
+      {
+        "id": "e0712d9101ca9cac",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Sobremesas/Sin título 1.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Esquema"
+        }
+      },
+      {
+        "id": "87e406853fb888ba",
+        "type": "leaf",
+        "state": {
+          "type": "footnotes",
+          "state": {
+            "file": "Sobremesas/Sin título 1.md"
+          },
+          "icon": "lucide-file-signature",
+          "title": "Notas al pie"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6d6b48afe4286fe2",
+  "lastOpenFiles": [
+    "Pratos principais/Albóndegas.md",
+    "_Plantillas/Receita.md",
+    "Sin título 1.md",
+    "Sobremesas/Sin título.md",
+    "Sobremesas/Sin título 1.md",
+    "Sin nombre",
+    "_Plantillas",
+    "Sobremesas",
+    "Pratos principais",
+    "Entrantes",
+    "Snacks"
+  ]
+}
