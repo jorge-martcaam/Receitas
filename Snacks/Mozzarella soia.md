@@ -1,6 +1,6 @@
 ---
 título: Mozzarella soia
-category: Proteína
+category: Queixos
 tags:
   - soia
   - amidonmillo
