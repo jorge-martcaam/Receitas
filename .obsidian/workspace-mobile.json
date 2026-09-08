@@ -66,15 +66,14 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/Seitán lonchas.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Seitán lonchas"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +103,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:proteina",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -158,7 +157,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "405a37afe29bc2b7",
@@ -250,7 +249,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bfa6b59b486c92c",
+  "active": "e76d24a819953f92",
   "lastOpenFiles": [
     "Snacks/Seitán lonchas.md",
     "Pratos principais/Seitán de guiso.md",
