@@ -5,8 +5,9 @@ tags:
   - proteina
   - glutedetrigo
   - fabas
+  - embutido
 fonte: https://www.instagram.com/reel/Das0ZieoewS/?igsh=anlrZHB2ZGh1dDR0
-Cantidade: 
+Cantidade:
 ---
 
 --- 

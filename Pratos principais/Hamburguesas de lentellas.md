@@ -4,7 +4,6 @@ category: Proteína
 tags:
   - hamburguesas
   - lentellas
-  - proteina
 fonte: https://bonviveur.com/es/recetas/hamburguesas-de-lentejas
 Cantidade: 6
 ---
