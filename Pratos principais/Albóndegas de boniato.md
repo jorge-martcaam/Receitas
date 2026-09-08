@@ -5,7 +5,7 @@ tags:
   - albondegas
   - boniato
   - berenxena
-fonte: [Claude](https://www.instagram.com/reel/DQpa5D4CG5a/?igsh=bzF6cDR3NmN3Nmow)
+fonte: https://www.instagram.com/reel/DQpa5D4CG5a/?igsh=bzF6cDR3NmN3Nmow
 Cantidade: 12
 ---
 
