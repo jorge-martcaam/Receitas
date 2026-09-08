@@ -4,7 +4,7 @@ category: Proteína
 tags:
   - cogomelos
   - luras
-  - proteína
+  - proteina
 fonte: https://www.instagram.com/reel/DSFOkzWgko7/?igsh=MWx5bmpnenB5cHFmbQ%3D%3D
 Cantidade: 2
 ---
