@@ -1,6 +1,6 @@
 ---
 título: Salmón tofu
-category: proteina
+category: Proteína
 tags:
   - tofu
   - algas
