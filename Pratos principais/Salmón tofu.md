@@ -1,6 +1,6 @@
 ---
-título: Salmón sandía
-category: Embutidos
+título: Salmón tofu
+category: proteina
 tags:
   - tofu
   - algas
