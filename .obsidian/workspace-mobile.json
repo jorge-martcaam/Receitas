@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pratos principais/Salmón tofu.md",
+                "file": "Pratos principais/Albóndegas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salmón tofu"
+              "title": "Albóndegas"
             }
           },
           {
@@ -278,10 +278,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "21b7069914a1f295",
+  "active": "115a850e6d0178fa",
   "lastOpenFiles": [
-    "Pratos principais/Albóndegas.md",
     "Pratos principais/Salmón tofu.md",
+    "Pratos principais/Albóndegas.md",
+    "Snacks/Salmón sandía.md",
+    "Pratos principais/Dosas.md",
+    "Pratos principais/Albóndegas de boniato.md",
+    "Pratos principais/Luras rebozadas de cogomelo.md",
+    "Pratos principais/Gratinado champiñóns.md",
+    "Pratos principais/Milanesa de seitán.md",
+    "/Snacks",
     "Snacks/Salmón sandia.md",
     "Snacks/Mozzarella soia.md",
     "Snacks/Seitán lonchas.md",
@@ -289,19 +296,14 @@
     "Snacks/Mortadela.md",
     "Pratos principais/Seitán de guiso.md",
     "Pratos principais/Queixo de patacas.md",
-    "Pratos principais/Milanesa de seitán.md",
-    "Pratos principais/Luras rebozadas de cogomelo.md",
-    "Pratos principais/Dosas.md",
     "Pratos principais/Albóndegas 1 1 1 1 1 1.md",
     "Pratos principais/Albóndegas 1 1 1 1 1.md",
     "Pratos principais/Albóndegas 1 1 1 1.md",
     "Pratos principais/Albóndegas 1 1 1.md",
     "Pratos principais/Albóndegas 1 1.md",
     "Pratos principais/Albóndegas 1.md",
-    "Pratos principais/Gratinado champiñóns.md",
     "Pratos principais/Biscoito salgado de champiñóns.md",
     "Pratos principais/Hamburguesas de lentellas.md",
-    "Pratos principais/Albóndegas de boniato.md",
     "/Pratos principais",
     "Pratos principais/Hamburguesas de lentellas",
     "Índice.base",
