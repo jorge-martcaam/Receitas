@@ -1,6 +1,6 @@
 ---
 título: Seitán lonchas
-category: Embutidos
+category: Proteína
 tags:
   - proteina
   - glutedetrigo
