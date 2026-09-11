@@ -3,17 +3,14 @@ título: Salmón tofu
 category: Proteína
 tags:
   - tofu
-  - algas
+  - albondegas
 fonte: https://www.instagram.com/reel/DPEyLDiDDe-/?igsh=MXN6dXZta3Rmd2Foaw%3D%3D
-Cantidade: 1
 ---
 
 --- 
-
-## Ingredientes
+## Ingredientes 
 Para el filete de salmón:
 🌱 300g de tofu firme 
-
 Para la salsa:
 🌱 Dos cucharadas de mayonesa vegetal
 🌱 Una hoja de alga nori
