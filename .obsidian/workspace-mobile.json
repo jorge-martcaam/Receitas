@@ -39,14 +39,13 @@
             "id": "115a850e6d0178fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Pratos principais/Salmón tofu.md",
-                "mode": "preview",
-                "source": false
+                "file": "Índice.base",
+                "viewName": "Tabla"
               },
-              "icon": "lucide-file",
-              "title": "Salmón tofu"
+              "icon": "lucide-table",
+              "title": "Índice"
             }
           },
           {
@@ -280,8 +279,8 @@
   },
   "active": "115a850e6d0178fa",
   "lastOpenFiles": [
-    "Pratos principais/Albóndegas.md",
     "Pratos principais/Salmón tofu.md",
+    "Pratos principais/Albóndegas.md",
     "Pratos principais/Hamburguesas de lentellas.md",
     "Snacks/Salmón sandía.md",
     "Pratos principais/Dosas.md",
