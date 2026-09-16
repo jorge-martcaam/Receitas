@@ -39,13 +39,14 @@
             "id": "115a850e6d0178fa",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Índice.base",
-                "viewName": "Tabla"
+                "file": "Snacks/Salami.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Índice"
+              "icon": "lucide-file",
+              "title": "Salami"
             }
           },
           {
@@ -279,6 +280,8 @@
   },
   "active": "115a850e6d0178fa",
   "lastOpenFiles": [
+    "Índice.base",
+    "Snacks/Salami.md",
     "Pratos principais/Salmón tofu.md",
     "Pratos principais/Albóndegas.md",
     "Pratos principais/Hamburguesas de lentellas.md",
@@ -305,10 +308,7 @@
     "Pratos principais/Biscoito salgado de champiñóns.md",
     "/Pratos principais",
     "Pratos principais/Hamburguesas de lentellas",
-    "Índice.base",
     "Sin título 1.md",
-    "Sobremesas/Sin título.md",
-    "Sobremesas/Sin título 1.md",
     "Sin nombre",
     "_Plantillas",
     "Sobremesas",
