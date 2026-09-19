@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/Salami.md",
-                "mode": "source",
+                "file": "Snacks/Mozzarella soia.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Salami"
+              "title": "Mozzarella soia"
             }
           },
           {
@@ -280,8 +280,10 @@
   },
   "active": "115a850e6d0178fa",
   "lastOpenFiles": [
-    "Índice.base",
+    "Snacks/Mortadela.md",
+    "Pratos principais/Queixo de patacas.md",
     "Snacks/Salami.md",
+    "Índice.base",
     "Pratos principais/Salmón tofu.md",
     "Pratos principais/Albóndegas.md",
     "Pratos principais/Hamburguesas de lentellas.md",
@@ -296,9 +298,7 @@
     "Snacks/Mozzarella soia.md",
     "Snacks/Seitán lonchas.md",
     "_Plantillas/Receita.md",
-    "Snacks/Mortadela.md",
     "Pratos principais/Seitán de guiso.md",
-    "Pratos principais/Queixo de patacas.md",
     "Pratos principais/Albóndegas 1 1 1 1 1 1.md",
     "Pratos principais/Albóndegas 1 1 1 1 1.md",
     "Pratos principais/Albóndegas 1 1 1 1.md",
