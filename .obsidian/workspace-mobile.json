@@ -107,7 +107,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Plantillas/Pasta brócoli.md",
+                "file": "Pratos principais/Pasta brócoli.md",
                 "mode": "source",
                 "source": false
               },
@@ -115,8 +115,7 @@
               "title": "Pasta brócoli"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -292,10 +291,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "817d517a55d9ce5c",
+  "active": "e76d24a819953f92",
   "lastOpenFiles": [
     "_Plantillas/Receita.md",
-    "_Plantillas/Pasta brócoli.md",
+    "Pratos principais/Pasta brócoli.md",
     "Sin título.md",
     "Pratos principais/Albóndegas.md",
     "Pratos principais/Salchichas.md",
