@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pratos principais/Hamburguesas de lentellas.md",
+                "file": "Pratos principais/Salchichas.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hamburguesas de lentellas"
+              "title": "Salchichas"
             }
           },
           {
@@ -145,7 +145,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "tag:levedonutricional",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -199,7 +199,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "405a37afe29bc2b7",
@@ -291,15 +291,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e76d24a819953f92",
+  "active": "ca0a4068ecec7660",
   "lastOpenFiles": [
+    "Pratos principais/Hamburguesas de lentellas.md",
     "Pratos principais/Pasta brócoli.md",
     "Snacks/Mozzarella soia.md",
     "_Plantillas/Receita.md",
     "Sin título.md",
     "Pratos principais/Albóndegas.md",
     "Pratos principais/Salchichas.md",
-    "Pratos principais/Hamburguesas de lentellas.md",
     "Pratos principais/Milanesa de seitán.md",
     "Snacks/Mortadela.md",
     "Pratos principais/Queixo de patacas.md",

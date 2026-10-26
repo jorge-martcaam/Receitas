@@ -4,7 +4,7 @@ category: Proteína
 tags:
   - salchichas
   - glute
-  - levedo nutricional
+  - levedonutricional
 fonte: https://www.instagram.com/reel/DdZqagEoB_7/?obrf=MTB6eG41eWc4dzNhMw%3D%3D
 ---
 
