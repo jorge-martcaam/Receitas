@@ -4,10 +4,8 @@ category: Sobremesas
 tags:
   - alfajores
   - docedeleite
-  - dactiles
+  - datiles
   - chocolate
-  - senglucosa
-  - senforno
 fonte: https://www.instagram.com/reel/DcW7LMXAbbq/?igsi=ZTE5dWR2NjZ2bGY2
 Cantidade: 8-10 alfajores
 ---
